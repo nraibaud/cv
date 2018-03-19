@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
 # Nicolas RAIBAUD
 
 ## 2018
