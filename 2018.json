@@ -1,0 +1,393 @@
+{
+  "id": "nraibaud",
+  "metas": {
+    "looking_for": "Challenges, upgrading skills, transfer skills, fun company, fun job, fun partners, good salary, part of remote, nearly home, part of travel",
+    "profile": {
+      "name": "Nicolas",
+      "surname": "RAIBAUD",
+      "address": "4 rue pierre gilles de gennes, 91120 PALAISEAU, FRANCE",
+      "birthdate": "17/11/1985",
+      "diving_license": true,
+      "websites": [
+        "http:www.accessible.fr",
+        "https//www.brickify.io"
+      ],
+      "networks": [
+        "https://github.com/nraibaud",
+        "http://stackoverflow.com/users/1934722",
+        "https://www.malt.fr/profile/nicolasraibaud",
+        "https://www.linkedin.com/in/nicolas-raibaud/"
+      ],
+      "contacts": [
+        "contact@accessible-web.fr",
+        "0624447277"
+      ],
+      "languages": [
+        "French",
+        "English",
+        "Spanish"
+      ],
+      "about": [
+        "Passionate",
+        "Motivated",
+        "Invested",
+        "Imaginative",
+        "Productive",
+        "Curious",
+        "Rigorous",
+        "Conscientious"
+      ],
+      "hobbies": [
+        "Movies",
+        "Travel",
+        "Geocaching",
+        "Photography",
+        "Gaming",
+        "Imagine",
+        "Design",
+        "Coding",
+        "Debug"
+      ]
+    },
+    "skills": [
+      "Native JavaScript",
+      "ReactJS",
+      "MithrilJS",
+      "BackboneJS",
+      "ChaplinJS",
+      "AngularJS",
+      "Jquery",
+      "Canvas",
+      "Cordova",
+      "ImpactJS",
+      "HTML5",
+      "CSS",
+      "SASS",
+      "Accessibility",
+      "SEO",
+      "Perfomances",
+      "NodeJS"
+    ],
+    "jobs_title": [
+      "HTML integrator",
+      "Front-End developer",
+      "JavaScript Developer"
+    ],
+    "keywords": [
+      "SPA",
+      "PWA",
+      "Micro front-ends",
+      "Responsive design",
+      "Mobile",
+      "Web",
+      "Gulp",
+      "Webpack",
+      "Redux",
+      "Flux",
+      "HTTP",
+      "REST",
+      "CSP",
+      "XSS",
+      "MVC",
+      "Design patterns",
+      "XML",
+      "XSLT",
+      "Open source",
+      "NPM",
+      "Unit testing",
+      "Functionnal testing",
+      "Enzyme",
+      "JEST",
+      "GIT",
+      "Jira",
+      "Team city",
+      "Continuous integration",
+      "Pair programming",
+      "POO",
+      "TDD",
+      "DDD",
+      "Webstorm",
+      "Team manager",
+      "Project manager",
+      "Agile",
+      "Gaming development",
+      " ... PHP, wordpress, Code Igniter, Mentis, svn, mootools ..."
+    ],
+    "curriculum": [
+      {
+        "from": 2004,
+        "to": 2005,
+        "title": "Webdesigner qualification",
+        "place": "Itecom OPERA"
+      },
+      {
+        "from": 2003,
+        "to": 2004,
+        "title": "BAC STT IG qualification",
+        "place": "Lycée parc Vilgenis, 91300 MASSY"
+      }
+    ]
+  },
+  "next_job": "YOU",
+  "job": {
+    "id": "2017-fed-digitaslbi",
+    "metas": {
+      "title": "Front-End developer",
+      "company": "Digitas Lbi",
+      "contract_type": "CDI",
+      "start_date": 1529218800,
+      "end_date": null,
+      "description": "Recast/Regrouping intermarche.com and drive."
+    },
+    "skills": [
+      "ReactJS",
+      "Redux",
+      "Webpack",
+      "Library devlopment",
+      "Components",
+      "API consumption",
+      "ES6",
+      "SASS",
+      "HTML5",
+      "CSS"
+    ],
+    "env": [
+      "Micro services",
+      "Micro front-ends",
+      "E-commerce",
+      "Mac OS"
+    ]
+  },
+  "jobs": [
+    {
+      "company": "INGENICO GROUP",
+      "title": "JavaScript Developer",
+      "description": "HTML5 web applications in embeded solutions. (No GPU, low RAM and CPU) / Desktop WebOS / Bridge lib / Electron App / Support / Pocs / Hackathons world wide",
+      "duration": 1095,
+      "skills": [
+        "POCS",
+        "MithrilJS",
+        "Exoskeleton",
+        "ChaplinJS",
+        "ES6",
+        "Flux",
+        "Vanilla JavaScript",
+        "HTML5",
+        "CSS3",
+        "Node",
+        "Gulp",
+        "Browserify",
+        "BrowserSync",
+        "Webpack",
+        "M.V.C",
+        "CSP",
+        "HTTP",
+        "REST",
+        "Chrome tools",
+        "angularJS",
+        "performances"
+      ],
+      "env": [
+        "Freestyle"
+      ]
+    },
+    {
+      "company": "Bouygues Telecom",
+      "title": "JavaScript Developer",
+      "description": "Developers managment, webapps development, webapps debug, process tools, pocs, project architecture",
+      "duration": 540,
+      "skills": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Backbone",
+        "nodeJS",
+        "Grunt",
+        "Ant",
+        "Xcode",
+        "Teamcity",
+        "Git",
+        "M.V.C"
+      ],
+      "env": [
+        "Agile"
+      ]
+    },
+    {
+      "company": "ZEE AGENCY",
+      "title": "Front-End developer",
+      "description": "Website for e-commerce Reflets de France",
+      "duration": 30,
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "Responsive design",
+        "jQuery",
+        "Vanilla JavaScript",
+        "Drupal"
+      ],
+      "env": [
+        "Agile"
+      ]
+    },
+    {
+      "company": "EKINO",
+      "title": "JavaScript Developer",
+      "description": "Extranet MyCITROEN",
+      "duration": 90,
+      "skills": [
+        "Views",
+        "Pure MVC",
+        "xHTML",
+        "CSS",
+        "jQuery"
+      ],
+      "env": [
+        "Agile"
+      ]
+    }
+  ],
+  "career": {
+    "metas": {
+      "description": "I worked for 5 years in different Web agency and SSII, like SQLI, SIXANDCO, DIGITAS ...\n I mounted, debugged, updated during these 5 years about seventy sites.\n I decided to use my skills as a frond-end developer with company Accessible Web since 2010.\n I offer Javascript development services and HTML integration.\n I am only available for telecommuting because I am never in the same place.\n"
+    },
+    "data": {
+      "timeline": [
+        {
+          "2017": [
+            "Digitas Lbi",
+            "FREELANCE / E.U.R.L / Accessible Web"
+          ],
+          "2012": [
+            "FREELANCE / E.U.R.L / Accessible Web"
+          ],
+          "2010": [
+            "Auto-entrepreneur / Accessible Web"
+          ],
+          "2009": [
+            "DIGITAS",
+            "WESENSO"
+          ],
+          "2007": [
+            "SIXANDCO (groupe FULLSIX)",
+            "SQLI AGENCY"
+          ],
+          "2006": [
+            "SQLI AGENCY",
+            "ECLIPSE COMMUNICATION"
+          ],
+          "2004": [
+            "ECLIPSE COMMUNICATION"
+          ]
+        }
+      ],
+      "companies": [
+        {
+          "company": "INGENICO",
+          "title": "JavaScript Developer",
+          "description": "Hybrid web applications in payment terminal, hackathons, libraries"
+        },
+        {
+          "company": "BOUYGUES TELECOM",
+          "title": "Lead JavaScript Developer",
+          "description": "Hybrid web applications, Former"
+        },
+        {
+          "company": "MAPPY",
+          "title": "JavaScript Developer",
+          "description": "New features for homepage part"
+        },
+        {
+          "company": "ZEE AGENCY",
+          "title": "Front-End developer",
+          "description": "Redesign Reflets de France"
+        },
+        {
+          "company": "EKINO",
+          "title": "Front-End developer",
+          "description": "Debug JS / Debug CSS / JavaScript (Mootools , Vanilla, Jquery, PureMVC) / XSLT"
+        },
+        {
+          "company": "GAYA",
+          "title": "Front-End developer",
+          "description": "HTML5, CSS3, Accessibility / JavaScript (Native, Jquery)"
+        },
+        {
+          "company": "DIGITAS",
+          "title": "Front-End developer",
+          "description": "HTML5, CSS3, Accessibility / Debug / Wordpress plugins"
+        },
+        {
+          "company": "TBWA",
+          "title": "Front-End developer",
+          "description": "HTML5 , CSS3, Accessibility / Debug"
+        },
+        {
+          "company": "CHANGE DIGITAL",
+          "title": "HTML integrator",
+          "description": "xHTML, CSS"
+        },
+        {
+          "company": "NURUN",
+          "title": "HTML integrator",
+          "description": "xHTML, CSS"
+        },
+        {
+          "company": "DISKO",
+          "title": "Front-End developer",
+          "description": "HTML5, CSS3 / Javascript (Jquery) / Wordpress"
+        },
+        {
+          "company": "MAJES",
+          "title": "Front-End developer",
+          "description": "Développeur front-end / Debug"
+        },
+        {
+          "company": "SIXANDCO",
+          "title": "Front-End developer",
+          "description": "xHTML , CSS ,Accessibility / Javascript (Native, Mootools) / Wordpress / Former"
+        },
+        {
+          "company": "SQLI AGENCY",
+          "title": "HTML integrator",
+          "description": "xHTML / Accessibility"
+        },
+        {
+          "company": "ECLIPSE COMMUNICATION",
+          "title": "HTML integrator",
+          "description": "xHTML / Accessibility / Former"
+        }
+      ]
+    }
+  },
+  "projects": [
+    {
+      "wip": false,
+      "released": true,
+      "online": false,
+      "title": "Super Maki adventures",
+      "description": "HTML5 game to be refactoring in Unity",
+      "skills": [
+        "ImpactJS",
+        "CocoonJS"
+      ],
+      "website": null
+    },
+    {
+      "wip": true,
+      "released": false,
+      "online": true,
+      "title": "Brickify.io",
+      "description": "Big open source project in order to create brillant web based applications.",
+      "website": "https://www.brickify.io"
+    },
+    {
+      "wip": false,
+      "released": true,
+      "online": false,
+      "title": "Old projects offline",
+      "description": "Multipages, Engains ..."
+    }
+  ]
+}
