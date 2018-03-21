@@ -385,6 +385,14 @@
     },
     {
       "wip": false,
+      "released": false,
+      "online": false,
+      "title": "opencv.io",
+      "description": "Open source cv database",
+      "website": "https://www.opencv.io"
+    },
+    {
+      "wip": false,
       "released": true,
       "online": false,
       "title": "Old projects offline",
